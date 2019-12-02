@@ -1,6 +1,8 @@
 # survivalRKHS
 Model-free Variable Selection in Reproducing Kernel Hilbert Space for right-censored data
 
+M. Matabuena and P. Félix and C. Meixide-Garcı́a 
+
 Abstract. A novel variable selection method is presented for those
 sort of regression problems in survival analysis where the response
 variable can be right-censored. The proposed approach is model-free,
